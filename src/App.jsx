@@ -25,7 +25,8 @@ export default function App() {
     name: 'Harpreet Parhar',
     email: 'harpreetparhar.inbox@gmail.com', 
     github: 'https://github.com/harpreetparharinbox-cyber',
-    linkedin: 'www.linkedin.com/in/harpreet-singh-7492b12a2', // 
+    linkedin: 'https://www.linkedin.com/in/harpreet-singh-7492b12a2/'
+, // 
     upwork: 'https://www.upwork.com/freelancers/~0140698859477a0cc1',
     resumeUrl: 'https://ik.imagekit.io/nvxfildxu/Harpreet_Parhar_Backend_Developer_Resume_ATS.pdf' // Add your resume PDF to public folder or use direct URL
   };
