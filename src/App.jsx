@@ -21,18 +21,15 @@ export default function App() {
   const konamiCode = ['ArrowUp','ArrowUp','ArrowDown','ArrowDown','ArrowLeft','ArrowRight','ArrowLeft','ArrowRight','b','a'];
   const konamiProgressRef = useRef(0);
   const audioContextRef = useRef(null);
-
-  // Contact Information - CHANGE THESE TO YOUR ACTUAL INFO
   const contactInfo = {
     name: 'Harpreet Parhar',
-    email: 'harpreet@example.com', // Change to your email
+    email: 'harpreetparhar.inbox@gmail.com', 
     github: 'https://github.com/harpreetparharinbox-cyber',
-    linkedin: 'https://linkedin.com/in/yourprofile', // Change to your LinkedIn
+    linkedin: 'www.linkedin.com/in/harpreet-singh-7492b12a2', // 
     upwork: 'https://www.upwork.com/freelancers/~0140698859477a0cc1',
     resumeUrl: 'https://ik.imagekit.io/nvxfildxu/Harpreet_Parhar_Backend_Developer_Resume_ATS.pdf' // Add your resume PDF to public folder or use direct URL
   };
 
-  // Profile Photos - PASTE YOUR DIRECT IMAGE URLs HERE
   const photos = [
     'https://tse4.mm.bing.net/th/id/OIP.eeYXqCfq7OMeMOriGlxn_QHaEK?rs=1&pid=ImgDetMain&o=7&rm=3', // Replace with your photo URL
     'https://ik.imagekit.io/nvxfildxu/Full%20Size%20Photo%20.jpg', // Replace with your photo URL
